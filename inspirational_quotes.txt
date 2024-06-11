@@ -1,6 +1,3 @@
 rawr-me
-<<<<<<< HEAD
-#yes - tyr
-=======
 #yes - dany
->>>>>>> motivations
+another quote
